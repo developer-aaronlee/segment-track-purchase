@@ -1,0 +1,1385 @@
+userId,action_source,affiliation,app_id,cart_id,category,checkout_id,coupon,currency,discount,email,order_id,presentment_amount,presentment_currency,products,sent_from,shipping,source_name,subtotal,tax,total,timestamp
+kchalleen@icloud.com,manual_backfill_20221107,Shopify,580111,3f72e29804369b14214987f3c05ebc5b,Shopify (Littledata),,HOLIDAY,USD,63.99,kchalleen@icloud.com,#141865,113.48,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_Pband_FLATLAY.jpg?v=1662746405"",
+    ""name"": ""p.band"",
+    ""presentment_amount"": 29.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 29.99,
+    ""product_id"": 774784548921,
+    ""quantity"": 1,
+    ""shopify_product_id"": 774784548921,
+    ""shopify_variant_id"": 8100341448761,
+    ""sku"": ""PBAND22546BLK"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-band"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,95.99,7.54,113.48,2022-11-07 13:43:24.000000000 +00:00
+kimhugey@gmail.com,manual_backfill_20221107,Shopify,580111,fe9e8a5ec7eddf44ffafab295930803e,Shopify (Littledata),,HOLIDAY,USD,11.99,kimhugey@gmail.com,#141870,30.33,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_Pband_FLATLAY.jpg?v=1662746405"",
+    ""name"": ""p.band"",
+    ""presentment_amount"": 29.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 29.99,
+    ""product_id"": 774784548921,
+    ""quantity"": 1,
+    ""shopify_product_id"": 774784548921,
+    ""shopify_variant_id"": 8100341448761,
+    ""sku"": ""PBAND22546BLK"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-band"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,18,2.38,30.33,2022-11-07 14:11:46.000000000 +00:00
+christinahounsell@gmail.com,manual_backfill_20221107,Shopify,580111,aa31ec383a1e7a33956f93c8a3dd3bda,Shopify (Littledata),,HOLIDAY,USD,23.99,christinahounsell@gmail.com,#141871,45.95,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 31881824174137,
+    ""sku"": ""PBALL2020GRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,9.95,web,36,0,45.95,2022-11-07 14:12:04.000000000 +00:00
+wolfson707@gmail.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,wolfson707@gmail.com,#141873,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 14:15:48.000000000 +00:00
+thegoodcookie@yahoo.com,manual_backfill_20221107,Shopify,580111,02f6de66a4a9a48fad7f253526e330b4,Shopify (Littledata),,HOLIDAY,USD,61.98,thegoodcookie@yahoo.com,#141882,109.36,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_GLIDERSPROTECTORS_FLATLAY_GLIDERPROTECTORS.jpg?v=1663600003"",
+    ""name"": ""glider floor protectors"",
+    ""presentment_amount"": 4.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 4.99,
+    ""product_id"": 832121995321,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832121995321,
+    ""shopify_variant_id"": 8449978957881,
+    ""sku"": ""GLIDDISGLOVES"",
+    ""url"": ""https://pvolve.myshopify.com/products/glider-gloves"",
+    ""variant"": ""Black""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_RECOVER9_FLATLAY_RECOVER9_2.jpg?v=1667862284"",
+    ""name"": ""Recover 9"",
+    ""presentment_amount"": 49.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 49.99,
+    ""product_id"": 6565506613305,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6565506613305,
+    ""shopify_variant_id"": 39388259975225,
+    ""sku"": ""SUPPVRECOVER9"",
+    ""url"": ""https://pvolve.myshopify.com/products/recover-9"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,92.99,6.42,109.36,2022-11-07 15:08:07.000000000 +00:00
+deetaw1@gmail.com,manual_backfill_20221107,Shopify,580111,2578b6b8d02fac432809e78712719a05,Shopify (Littledata),,HOLIDAY,USD,39.99,deetaw1@gmail.com,#141886,74.85,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,60,4.9,74.85,2022-11-07 15:18:04.000000000 +00:00
+jacqui.gordon1@btinternet.com,manual_backfill_20221107,Shopify,580111,f1e2ca37f6758c4526edb3908421f373,Shopify (Littledata),,HOLIDAY,USD,37.99,jacqui.gordon1@btinternet.com,#141857,76.98,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_SlantBoard_FLATLAY_SLANTBOARD_2.jpg?v=1663599151"",
+    ""name"": ""slant board"",
+    ""presentment_amount"": 89.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 89.99,
+    ""product_id"": 4456369651769,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4456369651769,
+    ""shopify_variant_id"": 31388092006457,
+    ""sku"": ""PSLANTBOARD20"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-slant-board"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_GLIDERSPROTECTORS_FLATLAY_GLIDERPROTECTORS.jpg?v=1663600003"",
+    ""name"": ""glider floor protectors"",
+    ""presentment_amount"": 4.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 4.99,
+    ""product_id"": 832121995321,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832121995321,
+    ""shopify_variant_id"": 8449978957881,
+    ""sku"": ""GLIDDISGLOVES"",
+    ""url"": ""https://pvolve.myshopify.com/products/glider-gloves"",
+    ""variant"": ""Black""
+  }
+]",manual_backfill_20221107,19.99,web,56.99,0,76.98,2022-11-07 12:35:50.000000000 +00:00
+franzfamily1309@gmail.com,manual_backfill_20221107,Shopify,580111,8b0317f34b3cd83801ae2a0192168abb,Shopify (Littledata),,HOLIDAY,USD,51.99,franzfamily1309@gmail.com,#141894,78,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,0,78,2022-11-07 15:37:55.000000000 +00:00
+russelaj01@outlook.com,manual_backfill_20221107,Shopify,580111,c5f8061aa399fe59e776942965f10564,Shopify (Littledata),,HOLIDAY,USD,75.99,russelaj01@outlook.com,#141858,133.94,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_SlantBoard_FLATLAY_SLANTBOARD_2.jpg?v=1663599151"",
+    ""name"": ""slant board"",
+    ""presentment_amount"": 89.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 89.99,
+    ""product_id"": 4456369651769,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4456369651769,
+    ""shopify_variant_id"": 31388092006457,
+    ""sku"": ""PSLANTBOARD20"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-slant-board"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,19.95,web,113.99,0,133.94,2022-11-07 12:38:16.000000000 +00:00
+mtauscher@wi.rr.com,manual_backfill_20221107,Shopify,580111,9a55e4ac7ac19430da4084f7f3a22c87,Shopify (Littledata),,HOLIDAY,USD,51.99,mtauscher@wi.rr.com,#141861,78,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,0,78,2022-11-07 13:17:18.000000000 +00:00
+susanannito@gmail.com,manual_backfill_20221107,Shopify,580111,0b4ed193093afb7e4b9032b3c07e7837,Shopify (Littledata),,HOLIDAY,USD,29.99,susanannito@gmail.com,#141904,54.94,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_MASSAGESTICK_FLATLAY_MASSAGESTICK2_1.jpg?v=1663593731"",
+    ""name"": ""massage stick"",
+    ""presentment_amount"": 14.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 14.99,
+    ""product_id"": 2015028084793,
+    ""quantity"": 1,
+    ""shopify_product_id"": 2015028084793,
+    ""shopify_variant_id"": 18650697957433,
+    ""sku"": ""PMASSAGESTICK"",
+    ""url"": ""https://pvolve.myshopify.com/products/massage-stick"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 31881824174137,
+    ""sku"": ""PBALL2020GRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,9.95,web,44.99,0,54.94,2022-11-07 16:35:47.000000000 +00:00
+sarahjaneblum@gmail.com,manual_backfill_20221107,Shopify,580111,32e906427d57283b5450edd4a2eae3f5,Shopify (Littledata),,HOLIDAY,USD,39.99,sarahjaneblum@gmail.com,#141888,76.17,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,60,6.22,76.17,2022-11-07 15:21:43.000000000 +00:00
+esme@hey.com,manual_backfill_20221107,Shopify,580111,beb13c1347985f19817bed14c4fefd45,Shopify (Littledata),,,USD,,esme@hey.com,#141889,19.99,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Streaming"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/Recharge1.png?v=1656099892"",
+    ""name"": ""Monthly Digital Membership"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 6805078212665,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6805078212665,
+    ""shopify_variant_id"": 40562634162233,
+    ""sku"": ""1month_trial0-R"",
+    ""url"": ""https://pvolve.myshopify.com/products/1-month-digital-membership"",
+    ""variant"": ""1-Month""
+  }
+]",manual_backfill_20221107,0,web,19.99,0,19.99,2022-11-07 15:26:47.000000000 +00:00
+hayleyjackson419@gmail.com,manual_backfill_20221107,Shopify,580111,c0a2ede1983aa49fee49ffbe1e31bbc7,Shopify (Littledata),,HOLIDAY,USD,39.99,hayleyjackson419@gmail.com,#141872,59.99,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_RECOVER9_FLATLAY_RECOVER9_2.jpg?v=1667862284"",
+    ""name"": ""Recover 9"",
+    ""presentment_amount"": 49.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 49.99,
+    ""product_id"": 6565506613305,
+    ""quantity"": 2,
+    ""shopify_product_id"": 6565506613305,
+    ""shopify_variant_id"": 39388259975225,
+    ""sku"": ""SUPPVRECOVER9"",
+    ""url"": ""https://pvolve.myshopify.com/products/recover-9"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,59.99,0,59.99,2022-11-07 14:13:46.000000000 +00:00
+ccmercho@gmail.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,ccmercho@gmail.com,#141862,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 13:25:37.000000000 +00:00
+chelsea.alex@gmail.com,manual_backfill_20221107,Shopify,580111,e63bacba06335869d1dec871c7daccaf,Shopify (Littledata),,HOLIDAY,USD,41.18,chelsea.alex@gmail.com,#141895,123.89,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_HAB_FLATLAY_HAB_5.jpg?v=1663593297"",
+    ""name"": ""heavy ankle band"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 1561509986361,
+    ""quantity"": 1,
+    ""shopify_product_id"": 1561509986361,
+    ""shopify_variant_id"": 32908390662201,
+    ""sku"": ""ANKBANHEAGRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/heavy-ankle-band"",
+    ""variant"": ""Gray""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 31881824174137,
+    ""sku"": ""PBALL2020GRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Gray""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Apparel"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/socks.jpg?v=1666878350"",
+    ""name"": ""P.volve Logo Socks"",
+    ""presentment_amount"": 12.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 12.99,
+    ""product_id"": 6924105089081,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6924105089081,
+    ""shopify_variant_id"": 40917704867897,
+    ""sku"": ""PVSOCKWORDMARK"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-socks"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_HAW_FLATLAY_HAW_1.jpg?v=1663593355"",
+    ""name"": ""3 lb. ankle weights"",
+    ""presentment_amount"": 22.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 22.99,
+    ""product_id"": 832203685945,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832203685945,
+    ""shopify_variant_id"": 8450905243705,
+    ""sku"": ""6lbANKHEATEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/3-lb-ankle-weights"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,49.11,web,74.78,0,123.89,2022-11-07 15:42:31.000000000 +00:00
+milafcorrigan@gmail.com,manual_backfill_20221107,Shopify,580111,521e6db25b06f173706503ac2b8e01a3,Shopify (Littledata),,HOLIDAY,USD,31.99,milafcorrigan@gmail.com,#141866,57.95,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_ES_FLATLAY_ES_2.jpg?v=1663595252"",
+    ""name"": ""essentials set"",
+    ""presentment_amount"": 79.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 79.99,
+    ""product_id"": 4852043153465,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4852043153465,
+    ""shopify_variant_id"": 33038285733945,
+    ""sku"": ""STARTERKITGRY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-set"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,9.95,web,48,0,57.95,2022-11-07 13:55:02.000000000 +00:00
+nwjenkins17@gmail.com,manual_backfill_20221107,Shopify,580111,a2b0e28a1f50a62ac9957b1302f928b1,Shopify (Littledata),,HOLIDAY,USD,45.18,nwjenkins17@gmail.com,#141853,77.74,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 8699318992953,
+    ""sku"": ""BALLCH518MINT"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Mint""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_Pband_FLATLAY.jpg?v=1662746405"",
+    ""name"": ""p.band"",
+    ""presentment_amount"": 29.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 29.99,
+    ""product_id"": 774784548921,
+    ""quantity"": 1,
+    ""shopify_product_id"": 774784548921,
+    ""shopify_variant_id"": 8100341448761,
+    ""sku"": ""PBAND22546BLK"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-band"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_HAW_FLATLAY_HAW_1.jpg?v=1663593355"",
+    ""name"": ""3 lb. ankle weights"",
+    ""presentment_amount"": 22.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 22.99,
+    ""product_id"": 832203685945,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832203685945,
+    ""shopify_variant_id"": 8450905243705,
+    ""sku"": ""6lbANKHEATEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/3-lb-ankle-weights"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,67.79,0,77.74,2022-11-07 09:40:16.000000000 +00:00
+kkmetz7@gmail.com,manual_backfill_20221107,Shopify,580111,384f006b6812518baff86b837927011d,Shopify (Littledata),,HOLIDAY,USD,45.99,kkmetz7@gmail.com,#141855,84.86,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_FOAMROLLER_FLATLAY_FOAMROLLER_1.jpg?v=1663593544"",
+    ""name"": ""precision foam roller"",
+    ""presentment_amount"": 24.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 24.99,
+    ""product_id"": 4283766276153,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4283766276153,
+    ""shopify_variant_id"": 30781883809849,
+    ""sku"": ""PVLFOAMROLLER"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-foam-roller"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_SlantBoard_FLATLAY_SLANTBOARD_2.jpg?v=1663599151"",
+    ""name"": ""slant board"",
+    ""presentment_amount"": 89.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 89.99,
+    ""product_id"": 4456369651769,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4456369651769,
+    ""shopify_variant_id"": 31388092006457,
+    ""sku"": ""PSLANTBOARD20"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-slant-board"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,68.99,5.92,84.86,2022-11-07 11:11:23.000000000 +00:00
+deechemist@aol.com,manual_backfill_20221107,Shopify,580111,54c244b5a537a03df049f247d578db77,Shopify (Littledata),,HOLIDAY,USD,51.99,deechemist@aol.com,#141856,78,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,0,78,2022-11-07 11:56:29.000000000 +00:00
+b0mahaff@aol.com,manual_backfill_20221107,Shopify,580111,93781fcb886161112a07f26f2a55cb47,Shopify (Littledata),,HOLIDAY,USD,31.99,b0mahaff@aol.com,#141884,57.95,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_ES_FLATLAY_ES_2.jpg?v=1663595252"",
+    ""name"": ""essentials set"",
+    ""presentment_amount"": 79.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 79.99,
+    ""product_id"": 4852043153465,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4852043153465,
+    ""shopify_variant_id"": 33038285733945,
+    ""sku"": ""STARTERKITGRY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-set"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,9.95,web,48,0,57.95,2022-11-07 15:10:42.000000000 +00:00
+hope.r.store@gmail.com,manual_backfill_20221107,Shopify,580111,b251f7e4f8e2878ea68f6d08bf4f3cb2,Shopify (Littledata),,HOLIDAY,USD,39.99,hope.r.store@gmail.com,#141891,69.95,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,60,0,69.95,2022-11-07 15:31:42.000000000 +00:00
+puredesign@live.com,manual_backfill_20221107,Shopify,580111,be4992a0803311343503b2930add0923,Shopify (Littledata),,HOLIDAY,USD,59.98,puredesign@live.com,#141875,89.99,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_RECOVER9_FLATLAY_RECOVER9_2.jpg?v=1667862284"",
+    ""name"": ""Recover 9"",
+    ""presentment_amount"": 49.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 49.99,
+    ""product_id"": 6565506613305,
+    ""quantity"": 3,
+    ""shopify_product_id"": 6565506613305,
+    ""shopify_variant_id"": 39388259975225,
+    ""sku"": ""SUPPVRECOVER9"",
+    ""url"": ""https://pvolve.myshopify.com/products/recover-9"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,89.99,0,89.99,2022-11-07 14:22:30.000000000 +00:00
+pamplasterer@gmail.com,manual_backfill_20221107,Shopify,580111,0edee499bfa0740cafdb3c2e5ec7beed,Shopify (Littledata),,HOLIDAY,USD,15.99,pamplasterer@gmail.com,#141867,43.98,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PMat_FLATLAY_PMAT_1.jpg?v=1663593863"",
+    ""name"": ""p.mat"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 4672835223609,
+    ""quantity"": 2,
+    ""shopify_product_id"": 4672835223609,
+    ""shopify_variant_id"": 31751546175545,
+    ""sku"": ""MMATSBK20TEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-mat-new"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,19.99,web,23.99,0,43.98,2022-11-07 13:59:11.000000000 +00:00
+stacymambrose@gmail.com,manual_backfill_20221107,Shopify,580111,cacd450318d71c2a5da53afb06467132,Shopify (Littledata),,HOLIDAY,USD,27.99,stacymambrose@gmail.com,#141869,55.33,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_P3TrainerDDDD2935_large_e2ce5de5-6368-4cfc-8aad-1bae22f23ec1.jpg?v=1662746554"",
+    ""name"": ""p.3 trainer"",
+    ""presentment_amount"": 69.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 69.99,
+    ""product_id"": 2100360380473,
+    ""quantity"": 1,
+    ""shopify_product_id"": 2100360380473,
+    ""shopify_variant_id"": 18888083439673,
+    ""sku"": ""PVOLVE2020P3T"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-3"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,42,3.38,55.33,2022-11-07 14:08:37.000000000 +00:00
+lynnsimpson21@yahoo.com,manual_backfill_20221107,Shopify,580111,2bb7999ca86b93b06da0ce87c9befc0d,Shopify (Littledata),,HOLIDAY,USD,23.99,lynnsimpson21@yahoo.com,#141887,45.95,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 31881824174137,
+    ""sku"": ""PBALL2020GRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,9.95,web,36,0,45.95,2022-11-07 15:20:38.000000000 +00:00
+kaybird104@aol.com,manual_backfill_20221107,Shopify,580111,b75327bf9898f90a3775c076acff86c5,Shopify (Littledata),,HOLIDAY,USD,51.99,kaybird104@aol.com,#141879,83.17,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,5.17,83.17,2022-11-07 14:49:46.000000000 +00:00
+jorken24@gmail.com,manual_backfill_20221107,Shopify,580111,3c83d5f02d2434080eb0b0a6a9c7c0bb,Shopify (Littledata),,HOLIDAY,USD,75.99,jorken24@gmail.com,#141893,113.99,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_SlantBoard_FLATLAY_SLANTBOARD_2.jpg?v=1663599151"",
+    ""name"": ""slant board"",
+    ""presentment_amount"": 89.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 89.99,
+    ""product_id"": 4456369651769,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4456369651769,
+    ""shopify_variant_id"": 31388092006457,
+    ""sku"": ""PSLANTBOARD20"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-slant-board"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,113.99,0,113.99,2022-11-07 15:33:29.000000000 +00:00
+rsaldajeno@gmail.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,rsaldajeno@gmail.com,#141877,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 14:36:12.000000000 +00:00
+evansstraughn@gmail.com,manual_backfill_20221107,Shopify,580111,d65af375a836db1119ffc045b78d8ca1,Shopify (Littledata),,HOLIDAY,USD,131.97,evansstraughn@gmail.com,#141892,197.97,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_Pband_FLATLAY.jpg?v=1662746405"",
+    ""name"": ""p.band"",
+    ""presentment_amount"": 29.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 29.99,
+    ""product_id"": 774784548921,
+    ""quantity"": 1,
+    ""shopify_product_id"": 774784548921,
+    ""shopify_variant_id"": 8100341448761,
+    ""sku"": ""PBAND22546BLK"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-band"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_P3TrainerDDDD2935_large_e2ce5de5-6368-4cfc-8aad-1bae22f23ec1.jpg?v=1662746554"",
+    ""name"": ""p.3 trainer"",
+    ""presentment_amount"": 69.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 69.99,
+    ""product_id"": 2100360380473,
+    ""quantity"": 1,
+    ""shopify_product_id"": 2100360380473,
+    ""shopify_variant_id"": 18888083439673,
+    ""sku"": ""PVOLVE2020P3T"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-3"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_RECOVER9_FLATLAY_RECOVER9_2.jpg?v=1667862284"",
+    ""name"": ""Recover 9"",
+    ""presentment_amount"": 49.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 49.99,
+    ""product_id"": 6565506613305,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6565506613305,
+    ""shopify_variant_id"": 39388259975225,
+    ""sku"": ""SUPPVRECOVER9"",
+    ""url"": ""https://pvolve.myshopify.com/products/recover-9"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Streaming"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/Recharge1.png?v=1656099892"",
+    ""name"": ""Monthly Digital Membership"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 6805078212665,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6805078212665,
+    ""shopify_variant_id"": 40562634162233,
+    ""sku"": ""1month_trial0-R"",
+    ""url"": ""https://pvolve.myshopify.com/products/1-month-digital-membership"",
+    ""variant"": ""1-Month""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 31881824174137,
+    ""sku"": ""PBALL2020GRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,197.97,0,197.97,2022-11-07 15:32:29.000000000 +00:00
+amanda.ogden5@gmail.com,manual_backfill_20221107,Shopify,580111,b3118a579f208fda65d8aaf9d1824e1a,Shopify (Littledata),,HOLIDAY,USD,51.99,amanda.ogden5@gmail.com,#141860,83.46,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,5.46,83.46,2022-11-07 12:49:32.000000000 +00:00
+alex@stylewithalex.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,alex@stylewithalex.com,#141896,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 15:50:56.000000000 +00:00
+tatiannaosaleh@gmail.com,manual_backfill_20221107,Shopify,580111,0fe3b1918524a7b79f587244f18b0642,Shopify (Littledata),,HOLIDAY,USD,139.99,tatiannaosaleh@gmail.com,#141897,223.91,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_TTS_FLATLAY_TTS.jpg?v=1663247772"",
+    ""name"": ""total transformation kit"",
+    ""presentment_amount"": 349.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 349.99,
+    ""product_id"": 4711070761017,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070761017,
+    ""shopify_variant_id"": 31880937635897,
+    ""sku"": ""TRANSKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/total-transformation-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,210,13.91,223.91,2022-11-07 15:52:31.000000000 +00:00
+roxy31124@aol.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,roxy31124@aol.com,#141899,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 16:05:17.000000000 +00:00
+virginia.m.chin@gmail.com,manual_backfill_20221107,Shopify,580111,d0015a585a9b0ac0f81a645e9f0de8d5,Shopify (Littledata),,HOLIDAY,USD,44.78,virginia.m.chin@gmail.com,#141901,82.92,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_LAW_FLATLAY_LAW_4.jpg?v=1663593250"",
+    ""name"": ""1.5 lb. ankle weights"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 832198737977,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832198737977,
+    ""shopify_variant_id"": 8450828435513,
+    ""sku"": ""3lbANKLHTGRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/1-5-lb-ankle-weights"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_Pband_FLATLAY.jpg?v=1662746405"",
+    ""name"": ""p.band"",
+    ""presentment_amount"": 29.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 29.99,
+    ""product_id"": 774784548921,
+    ""quantity"": 1,
+    ""shopify_product_id"": 774784548921,
+    ""shopify_variant_id"": 8100341448761,
+    ""sku"": ""PBAND22546BLK"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-band"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_HAB_FLATLAY_HAB_5.jpg?v=1663593297"",
+    ""name"": ""heavy ankle band"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 1561509986361,
+    ""quantity"": 1,
+    ""shopify_product_id"": 1561509986361,
+    ""shopify_variant_id"": 32908390662201,
+    ""sku"": ""ANKBANHEAGRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/heavy-ankle-band"",
+    ""variant"": ""Gray""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_HAW_FLATLAY_HAW_1.jpg?v=1663593355"",
+    ""name"": ""3 lb. ankle weights"",
+    ""presentment_amount"": 22.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 22.99,
+    ""product_id"": 832203685945,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832203685945,
+    ""shopify_variant_id"": 8450905243705,
+    ""sku"": ""6lbANKHEATEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/3-lb-ankle-weights"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_LAB_FLATLAY_LAB_1.jpg?v=1663599257"",
+    ""name"": ""light ankle band"",
+    ""presentment_amount"": 18.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 18.99,
+    ""product_id"": 1304968298553,
+    ""quantity"": 1,
+    ""shopify_product_id"": 1304968298553,
+    ""shopify_variant_id"": 32908389318713,
+    ""sku"": ""ANKBANLHTTEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/light-ankle-band"",
+    ""variant"": ""Teal""
+  }
+]",manual_backfill_20221107,9.95,web,67.17,5.8,82.92,2022-11-07 16:17:24.000000000 +00:00
+jessiemansur@gmail.com,manual_backfill_20221107,Shopify,580111,a763f76ce0b36ae4af239f55e2e699a6,Shopify (Littledata),,HOLIDAY,USD,15.59,jessiemansur@gmail.com,#141902,36.32,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_HAB_FLATLAY_HAB_5.jpg?v=1663593297"",
+    ""name"": ""heavy ankle band"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 1561509986361,
+    ""quantity"": 1,
+    ""shopify_product_id"": 1561509986361,
+    ""shopify_variant_id"": 32908390662201,
+    ""sku"": ""ANKBANHEAGRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/heavy-ankle-band"",
+    ""variant"": ""Gray""
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_LAB_FLATLAY_LAB_1.jpg?v=1663599257"",
+    ""name"": ""light ankle band"",
+    ""presentment_amount"": 18.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 18.99,
+    ""product_id"": 1304968298553,
+    ""quantity"": 1,
+    ""shopify_product_id"": 1304968298553,
+    ""shopify_variant_id"": 32908389318713,
+    ""sku"": ""ANKBANLHTTEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/light-ankle-band"",
+    ""variant"": ""Teal""
+  }
+]",manual_backfill_20221107,9.95,web,23.39,2.98,36.32,2022-11-07 16:21:27.000000000 +00:00
+michelle.white1908@gmail.com,manual_backfill_20221107,Shopify,580111,3d87e0c4992a2f0b34e14a3f689ba671,Shopify (Littledata),,HOLIDAY,USD,23.99,michelle.white1908@gmail.com,#141898,49.37,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EJ042301_RT_large_8dcde13f-a640-4acb-bd62-35e55eff064c.jpg?v=1662745976"",
+    ""name"": ""p.ball"",
+    ""presentment_amount"": 59.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 59.99,
+    ""product_id"": 30280286221,
+    ""quantity"": 1,
+    ""shopify_product_id"": 30280286221,
+    ""shopify_variant_id"": 8699318992953,
+    ""sku"": ""BALLCH518MINT"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-ball-strap-pump"",
+    ""variant"": ""Mint""
+  }
+]",manual_backfill_20221107,9.95,web,36,3.42,49.37,2022-11-07 15:55:48.000000000 +00:00
+christy.colburn@gmail.com,manual_backfill_20221107,Shopify,580111,f43690d2cc2bd81fa61c807c36e004a0,Shopify (Littledata),,HOLIDAY,USD,51.99,christy.colburn@gmail.com,#141868,86,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,8,86,2022-11-07 14:08:02.000000000 +00:00
+nfn475hkgd@privaterelay.appleid.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,nfn475hkgd@privaterelay.appleid.com,#141890,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 15:30:11.000000000 +00:00
+katharine.b.rose@gmail.com,manual_backfill_20221107,Shopify,580111,f5e757a4ad1efc364807e364157ca39d,Shopify (Littledata),,,USD,,katharine.b.rose@gmail.com,#141854,19.99,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Streaming"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/Recharge1.png?v=1656099892"",
+    ""name"": ""Monthly Digital Membership"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 6805078212665,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6805078212665,
+    ""shopify_variant_id"": 40562634162233,
+    ""sku"": ""1month_trial0-R"",
+    ""url"": ""https://pvolve.myshopify.com/products/1-month-digital-membership"",
+    ""variant"": ""1-Month""
+  }
+]",manual_backfill_20221107,0,web,19.99,0,19.99,2022-11-07 10:39:46.000000000 +00:00
+nw4rn8nk9f@privaterelay.appleid.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,nw4rn8nk9f@privaterelay.appleid.com,#141874,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 14:19:04.000000000 +00:00
+car_legaspi@yahoo.com,manual_backfill_20221107,Shopify,580111,7b9eb5ccd3d77ce4dad22d1f7d1bf8da,Shopify (Littledata),,HOLIDAY,USD,39.99,car_legaspi@yahoo.com,#141876,75.89,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,60,5.94,75.89,2022-11-07 14:27:01.000000000 +00:00
+betsymiller1@verizon.net,manual_backfill_20221107,Shopify,1354745,,Shopify (Littledata),,,USD,,betsymiller1@verizon.net,#141878,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PProd_FLay_Pball_Gray_f363193e-7138-45f3-8245-2a63fdbd2a21.jpg?v=1599749141"",
+    ""name"": ""P.ball Replacement Ball Only - Gray"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": 4711437172793,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711437172793,
+    ""shopify_variant_id"": 31881856483385,
+    ""sku"": ""PBALLREPLGRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/gray-p-ball-replacement"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 14:40:58.000000000 +00:00
+ealexander875@gmail.com,manual_backfill_20221107,Shopify,580111,520793f367289add0e7c72277e1cbfea,Shopify (Littledata),,,USD,,ealexander875@gmail.com,#141880,349.99,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_TTS_FLATLAY_TTS.jpg?v=1663247772"",
+    ""name"": ""total transformation kit"",
+    ""presentment_amount"": 349.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 349.99,
+    ""product_id"": 4711070761017,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070761017,
+    ""shopify_variant_id"": 31880937635897,
+    ""sku"": ""TRANSKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/total-transformation-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,349.99,0,349.99,2022-11-07 15:02:57.000000000 +00:00
+julia.sarratt@gmail.com,manual_backfill_20221107,Shopify,580111,751fae7152486f3ca8e9a330a452e6d5,Shopify (Littledata),,HOLIDAY,USD,39.99,julia.sarratt@gmail.com,#141881,69.95,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_PrecisionMat_FLATLAY_1.jpg?v=1663593419"",
+    ""name"": ""precision mat"",
+    ""presentment_amount"": 99.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 99.99,
+    ""product_id"": 4682354327609,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4682354327609,
+    ""shopify_variant_id"": 31792757899321,
+    ""sku"": ""PRECISIONMT20"",
+    ""url"": ""https://pvolve.myshopify.com/products/precision-mat"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,60,0,69.95,2022-11-07 15:07:20.000000000 +00:00
+andrealuna1712@yahoo.com,manual_backfill_20221107,Shopify,580111,fda4c71029d4f49f435974f6bb29897c,Shopify (Littledata),,HOLIDAY,USD,79.58,andrealuna1712@yahoo.com,#141859,119.38,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_LAW_FLATLAY_LAW_4.jpg?v=1663593250"",
+    ""name"": ""1.5 lb. ankle weights"",
+    ""presentment_amount"": 19.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 19.99,
+    ""product_id"": 832198737977,
+    ""quantity"": 1,
+    ""shopify_product_id"": 832198737977,
+    ""shopify_variant_id"": 8450828435513,
+    ""sku"": ""3lbANKLHTGRAY"",
+    ""url"": ""https://pvolve.myshopify.com/products/1-5-lb-ankle-weights"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_P3TrainerDDDD2935_large_e2ce5de5-6368-4cfc-8aad-1bae22f23ec1.jpg?v=1662746554"",
+    ""name"": ""p.3 trainer"",
+    ""presentment_amount"": 69.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 69.99,
+    ""product_id"": 2100360380473,
+    ""quantity"": 1,
+    ""shopify_product_id"": 2100360380473,
+    ""shopify_variant_id"": 18888083439673,
+    ""sku"": ""PVOLVE2020P3T"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-3"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_SlantBoard_FLATLAY_SLANTBOARD_2.jpg?v=1663599151"",
+    ""name"": ""slant board"",
+    ""presentment_amount"": 89.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 89.99,
+    ""product_id"": 4456369651769,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4456369651769,
+    ""shopify_variant_id"": 31388092006457,
+    ""sku"": ""PSLANTBOARD20"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-slant-board"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_LAB_FLATLAY_LAB_1.jpg?v=1663599257"",
+    ""name"": ""light ankle band"",
+    ""presentment_amount"": 18.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 18.99,
+    ""product_id"": 1304968298553,
+    ""quantity"": 1,
+    ""shopify_product_id"": 1304968298553,
+    ""shopify_variant_id"": 32908389318713,
+    ""sku"": ""ANKBANLHTTEAL"",
+    ""url"": ""https://pvolve.myshopify.com/products/light-ankle-band"",
+    ""variant"": ""Teal""
+  }
+]",manual_backfill_20221107,0,web,119.38,0,119.38,2022-11-07 12:43:14.000000000 +00:00
+katie@katie-lcsw.com,manual_backfill_20221107,Shopify,580111,4d216eedb295ea6a256e775d564011cd,Shopify (Littledata),,HOLIDAY,USD,51.99,katie@katie-lcsw.com,#141864,82.68,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,4.68,82.68,2022-11-07 13:35:31.000000000 +00:00
+emarshall94@gmail.com,manual_backfill_20221107,Shopify,580111,884980ffc8104511030b0bc307f5d66d,Shopify (Littledata),,HOLIDAY,USD,27.99,emarshall94@gmail.com,#141883,56.11,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_P3TrainerDDDD2935_large_e2ce5de5-6368-4cfc-8aad-1bae22f23ec1.jpg?v=1662746554"",
+    ""name"": ""p.3 trainer"",
+    ""presentment_amount"": 69.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 69.99,
+    ""product_id"": 2100360380473,
+    ""quantity"": 1,
+    ""shopify_product_id"": 2100360380473,
+    ""shopify_variant_id"": 18888083439673,
+    ""sku"": ""PVOLVE2020P3T"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-3"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,42,4.16,56.11,2022-11-07 15:09:59.000000000 +00:00
+ndickie@gmail.com,manual_backfill_20221107,Shopify,580111,48fb548b7af81eb85edf0c2391893b0a,Shopify (Littledata),,HOLIDAY,USD,51.99,ndickie@gmail.com,#141885,83.65,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Single Sku Kit"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_EK_FLATLAY_EK_2.jpg?v=1663594074"",
+    ""name"": ""The Essentials Kit"",
+    ""presentment_amount"": 129.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 129.99,
+    ""product_id"": 4711070892089,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4711070892089,
+    ""shopify_variant_id"": 31880943271993,
+    ""sku"": ""STARTKIT3MOGY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-kit"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,0,web,78,5.65,83.65,2022-11-07 15:14:00.000000000 +00:00
+bullmyers@gmail.com,manual_backfill_20221107,Shopify,4150791,,Shopify (Littledata),,,USD,,bullmyers@gmail.com,#141863,0,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": null,
+    ""image_url"": null,
+    ""name"": ""digital membership (7 day free trial)"",
+    ""presentment_amount"": 0,
+    ""presentment_currency"": ""USD"",
+    ""price"": 0,
+    ""product_id"": null,
+    ""quantity"": 1,
+    ""shopify_product_id"": null,
+    ""shopify_variant_id"": null,
+    ""sku"": ""12month_trial7"",
+    ""url"": null,
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,0,web,0,0,0,2022-11-07 13:35:24.000000000 +00:00
+jennifer.rader315@gmail.com,manual_backfill_20221107,Shopify,580111,864403d388a567e4a655c097534fcfcc,Shopify (Littledata),,HOLIDAY,USD,41.99,jennifer.rader315@gmail.com,#141900,77.32,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_MassageBalls_FLATLAY_MASSAGEBALLS_1.jpg?v=1663593587"",
+    ""name"": ""Massage Ball Set"",
+    ""presentment_amount"": 24.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 24.99,
+    ""product_id"": 6542887387193,
+    ""quantity"": 1,
+    ""shopify_product_id"": 6542887387193,
+    ""shopify_variant_id"": 39273234006073,
+    ""sku"": ""MUSRELBALLSET"",
+    ""url"": ""https://pvolve.myshopify.com/products/massage-ball-set"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""entitled"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_ES_FLATLAY_ES_2.jpg?v=1663595252"",
+    ""name"": ""essentials set"",
+    ""presentment_amount"": 79.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 79.99,
+    ""product_id"": 4852043153465,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4852043153465,
+    ""shopify_variant_id"": 33038285733945,
+    ""sku"": ""STARTERKITGRY"",
+    ""url"": ""https://pvolve.myshopify.com/products/essentials-set"",
+    ""variant"": ""Gray""
+  }
+]",manual_backfill_20221107,9.95,web,62.99,4.38,77.32,2022-11-07 16:07:55.000000000 +00:00
+alicia.y.wang@gmail.com,manual_backfill_20221107,Shopify,580111,24dd8966d5dd4027849d208168f25a77,Shopify (Littledata),,HOLIDAY,USD,63.99,alicia.y.wang@gmail.com,#141903,105.94,USD,"[
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_P3TrainerDDDD2935_large_e2ce5de5-6368-4cfc-8aad-1bae22f23ec1.jpg?v=1662746554"",
+    ""name"": ""p.3 trainer"",
+    ""presentment_amount"": 69.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 69.99,
+    ""product_id"": 2100360380473,
+    ""quantity"": 1,
+    ""shopify_product_id"": 2100360380473,
+    ""shopify_variant_id"": 18888083439673,
+    ""sku"": ""PVOLVE2020P3T"",
+    ""url"": ""https://pvolve.myshopify.com/products/p-3"",
+    ""variant"": """"
+  },
+  {
+    ""brand"": ""P.volve"",
+    ""category"": ""Equipment"",
+    ""image_url"": ""https://cdn.shopify.com/s/files/1/2379/5349/products/PV_PDP_SlantBoard_FLATLAY_SLANTBOARD_2.jpg?v=1663599151"",
+    ""name"": ""slant board"",
+    ""presentment_amount"": 89.99,
+    ""presentment_currency"": ""USD"",
+    ""price"": 89.99,
+    ""product_id"": 4456369651769,
+    ""quantity"": 1,
+    ""shopify_product_id"": 4456369651769,
+    ""shopify_variant_id"": 31388092006457,
+    ""sku"": ""PSLANTBOARD20"",
+    ""url"": ""https://pvolve.myshopify.com/products/pvolve-slant-board"",
+    ""variant"": """"
+  }
+]",manual_backfill_20221107,9.95,web,95.99,0,105.94,2022-11-07 16:28:48.000000000 +00:00
