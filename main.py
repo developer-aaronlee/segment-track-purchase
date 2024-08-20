@@ -6,12 +6,12 @@ segment_track = "https://api.segment.io/v1/track"
 
 qa_headers = {
     "Content-Type": "application/json",
-    "Authorization": "Basic dnJPdHdtWlU1Q25LN0RsQVFoQ1N1RzdjeFhSU3dZQmM6"
+    "Authorization": "Basic api_key"
 }
 
 prod_headers = {
     "Content-Type": "application/json",
-    "Authorization": "Basic aktFVHNnQzBJWlg4SExyRzl4VFNXYVQ1dzZhcWZTb3U6"
+    "Authorization": "Basic api_key"
 }
 
 
